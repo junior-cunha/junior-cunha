@@ -2,7 +2,7 @@
 
 ## Sobre
 
-- 👨‍💻 DDesenvolvedor PHP, atuando em projetos desde sua arquitetura, absorvendo regras de negócios, sempre prezando pela segurança e performance, nunca esquecendo de ter uma boa arquitetura de dados.
+- 👨‍💻 Desenvolvedor PHP, atuando em projetos desde sua arquitetura, absorvendo regras de negócios, sempre prezando pela segurança e performance, nunca esquecendo de ter uma boa arquitetura de dados.
 - 🎓 Estudando Engenharia de Software na UNINTER.
 - 💼 Desenvolvedor Web na nPlaceTI.
 - 🌱 Aprendendo mais sobre Laravel e Flutter.
@@ -13,11 +13,8 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![SASS](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass&logoColor=Sass)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=bootstrap&logoColor=bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Styled Components](https://img.shields.io/badge/-StyledComponents-333333?style=flat&logo=styledcomponents)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
