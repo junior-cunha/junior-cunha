@@ -3,8 +3,11 @@
 ## Sobre
 
 - 👨‍💻 Desenvolvedor PHP, atuando em projetos desde sua arquitetura, absorvendo regras de negócios, sempre prezando pela segurança e performance, nunca esquecendo de ter uma boa arquitetura de dados.
+  
 - 🎓 Estudando Engenharia de Software na UNINTER.
+  
 - 💼 Desenvolvedor Web na nPlaceTI.
+  
 - 🌱 Aprendendo mais sobre Laravel e Flutter.
 
 ## Skills
