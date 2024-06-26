@@ -38,7 +38,7 @@
 
 <br/>
 
-<a href="https://github.com/dev-rafaelcunha" title="Perfil do Rafael">
+<a href="https://github.com/juniorcunhadev" title="Perfil do Rafael">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniorcunhadev&theme=dracula&show_icons=true" />
 </a>
 
