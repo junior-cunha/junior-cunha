@@ -39,15 +39,15 @@
 
 <br/>
 
-<a href="https://github.com/juniorcunhadev" title="Perfil do Junior">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniorcunhadev&theme=dracula&show_icons=true" />
+<a href="https://github.com/junior-cunha" title="Perfil do Junior">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=junior-cunha&theme=dracula&show_icons=true" />
 </a>
 
 ## Contatos
 
 [![Linkedin](https://img.shields.io/badge/-juniorcunha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junior-cunha/)](https://www.linkedin.com/in/junior-cunha/)
 [![Gmail Badge](https://img.shields.io/badge/-juniorcunhadev@gmail.com-ea4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juniorcunhadev@gmail.com)](mailto:juniorcunhadev@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/juniorcunhadev?label=follow&style=social)](https://github.com/juniorcunhadev)
+[![GitHub](https://img.shields.io/github/followers/junior-cunha?label=follow&style=social)](https://github.com/junior-cunha)
 <!--
 **juniorcunhadev/juniorcunhadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
